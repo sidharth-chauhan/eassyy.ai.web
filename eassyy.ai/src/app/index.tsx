@@ -1,5 +1,5 @@
-import LandingScreen from "../screens/LandingScreen";
+import LandingScreen from "./screens/LandingScreen";
 
-export default function Index() {
+export default function Home() {
   return <LandingScreen />;
 }
